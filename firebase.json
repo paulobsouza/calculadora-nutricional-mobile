@@ -1,0 +1,27 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "calculadora-nutricional-proto",
+          "appId": "1:313857917664:android:cff5c5e3cb3f217ac90685",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "calculadora-nutricional-proto",
+          "configurations": {
+            "android": "1:313857917664:android:cff5c5e3cb3f217ac90685"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
