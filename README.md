@@ -1,3 +1,3 @@
 # calculadora-nutricional-mobile
 
-### ...em desenvolvimento
+### ...em desenvolvimento.
